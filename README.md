@@ -1,6 +1,6 @@
 # Hi, I'm Apollo Kariuki 👋
 
-**Software Engineer | .NET | Azure | AI Engineering | Developer Experience**
+**Senior Software Engineer | .NET | Azure | AI Engineering | Developer Experience**
 
 I build and explore cloud-native software, developer tooling, and AI-powered applications. My work and learning interests span **.NET**, **Azure**, **generative AI**, **agentic systems**, **platform engineering**, and reliable distributed applications.
 
