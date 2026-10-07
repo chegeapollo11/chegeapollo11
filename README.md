@@ -1,26 +1,38 @@
 # Hi, I'm Apollo Kariuki 👋
 
-**Senior Software Engineer | .NET | Azure | AI Engineering | Developer Experience**
+**Senior Software Engineer building secure, cloud-native, and AI-powered software.**
 
-I build and explore cloud-native software, developer tooling, and AI-powered applications. My work and learning interests span **.NET**, **Azure**, **generative AI**, **agentic systems**, **platform engineering**, and reliable distributed applications.
+I specialize in **.NET**, **Azure**, distributed systems, integrations, and engineering productivity. I currently work on Identity and Network Access at Microsoft, where I help build reliable systems that make engineering teams more productive and secure.
 
-## What I'm focused on
+## What I work with
 
-- 🤖 Building with **AI agents**, LLM applications, RAG, and the Model Context Protocol (MCP)
-- ☁️ Designing cloud-native solutions with **Azure**, .NET Aspire, containers, and infrastructure as code
-- 🧩 Improving developer workflows through **spec-driven development**, automation, and developer tooling
-- 🔐 Creating reliable, secure, and observable backend systems with **C#/.NET**
-- 🌐 Exploring modern web development with **React**, TypeScript, and API platforms
+- **Languages & frameworks:** `C#`, `.NET`, `ASP.NET Core`, `TypeScript`, `Python`, `SQL`, and `KQL`
+- **Cloud & delivery:** `Azure`, `Azure AI`, `Azure DevOps`, `Docker`, `Kubernetes`, `Terraform`, and `Bicep`
+- **Integration & data:** `REST APIs`, `Kafka`, `RabbitMQ`, `Azure Service Bus`, `Cosmos DB`, and `Kusto`
 
-## Technology interests
+## Selected impact
 
-`C#` · `.NET` · `ASP.NET Core` · `Azure` · `Azure AI` · `OpenAI` · `Semantic Kernel` · `Docker` · `Kubernetes` · `Bicep` · `PowerShell` · `TypeScript` · `React` · `Microsoft Graph`
+- Built a big-data ingestion solution for inconsistent build definitions and tasks, improving code quality and raising test coverage to **96%**.
+- Led zero-downtime migrations of core services to modern framework versions, improving security and performance.
+- Designed a reusable Outlook and Teams messaging service that achieved **100% message delivery** at launch.
+- Delivered API and integration platforms across insurance, healthcare, banking, and payments.
 
-## Let's connect
+## Currently interested in
 
-- 💼 [LinkedIn](https://linkedin.com/in/apolloclkariuki)
-- 🐙 [GitHub](https://github.com/chegeapollo11)
+- Agentic AI and intelligent process automation with Azure AI and Semantic Kernel
+- Cloud-native platforms, developer tooling, and delivery automation
+- Secure, observable backend services and resilient integrations
+
+## Certifications
+
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Fundamentals
+- Cloud Developer and Cloud DevOps using Microsoft Azure Nanodegrees
+
+## Connect
+
+💼 [LinkedIn](https://linkedin.com/in/apolloclkariuki)
 
 ---
 
-> _Always learning, building, and improving the developer experience._
+> _I value simple, efficient, and maintainable solutions to complex engineering problems._
