@@ -21,6 +21,3 @@ I build and explore cloud-native software, developer tooling, and AI-powered app
 - 💼 [LinkedIn](https://linkedin.com/in/apolloclkariuki)
 - 🐙 [GitHub](https://github.com/chegeapollo11)
 
----
-
-> _Always learning, building, and improving the developer experience._
